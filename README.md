@@ -6,4 +6,5 @@ Les retards aériens affectent des millions de passagers chaque année et génè
 
 ## Objectifs​
 Comparer les compagnies en fonction de leurs taux de ponctualité et d'annulation pour dégager des benchmarks opérationnels.​
+
 Évaluer l’impact des conditions météorologiques, des problèmes techniques, de la gestion des aéroports, et d’autres facteurs​
